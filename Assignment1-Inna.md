@@ -1,7 +1,7 @@
-Question - what is the DOM and what purpose does it serve?
+1. Question - what is the DOM and what purpose does it serve?
 Answer - DOM is a Document Object Model.  It serves as a cross-platform and language-independent convention.  It represents objects in HTML and XML documents and interacts with them. 
 
-Question - what types are the following variables?:
+2. Question - what types are the following variables?:
 Answer:    
     "Ivan" - string
     4043 - integer
@@ -10,7 +10,7 @@ Answer:
     { "Name": "Joe, "GPA": 4.0 } - JS object
     "Test" - string
 
-Question -  what does the following method return?
+3. Question -  what does the following method return?
 ```javascript
 document.getElementsByClassName("foo"); 
 ```
