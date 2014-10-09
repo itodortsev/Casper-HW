@@ -3,12 +3,12 @@ Answer - DOM is a Document Object Model.  It serves as a cross-platform and lang
 
 2. Question - what types are the following variables?:
 Answer:    
-    "Ivan" - string
-    4043 - integer
-    439.43 - float
-    ["Joe", "John", "Max"] - array
-    { "Name": "Joe, "GPA": 4.0 } - JS object
-    "Test" - string
+    "Ivan" - string;
+    4043 - integer;
+    439.43 - float;
+    ["Joe", "John", "Max"] - array;
+    { "Name": "Joe, "GPA": 4.0 } - JS object;
+    "Test" - string;
 
 3. Question -  what does the following method return?
 ```javascript
