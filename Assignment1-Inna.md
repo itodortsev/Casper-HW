@@ -1,1 +1,3 @@
-asd;lkfjasdlkfjas;ldkfj
+```javascript
+document.getElementsByClassName("foo");
+```
