@@ -16,3 +16,23 @@ document.getElementsByClassName("foo");
 ```
 Answer: this method returns all the elements in the document/on the webpage with the specified lass name ('foo' in this case)
 
+4. Question - how would you select the hero image container? 
+Answer: 
+```javascript
+document.getElementsByClassName("rlHeroSection");
+```
+returns
+```
+HTMLCollection [ <div.rlHeroSection.michelle-g-hero> ]
+```
+
+5. Question - how many instances of the div tag are selected when you try to select by tag name?
+Answer: 
+```javascript
+document.getElementsByTagName("div")
+```
+
+returns 167 instances of the div tag:
+```
+HTMLCollection [ <div#fb-root..fb_reset>, <div>, <div>, <div#HeaderApp.rlHeader.ng-scope.rlHeaderShowingFullNav>, <div#butterMessage>, <div#change1.butterMessageContent>, <div.clearfix>, <div#butterMessageTextContainer>, <div#butterMessageText>, <div#butterMessageButtonContainer>, 157 more… ]
+```
