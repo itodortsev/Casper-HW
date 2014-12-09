@@ -1,5 +1,4 @@
 casper.test.begin('Login and Registration End to End Test', function suite(test) {
-var startingUrl = getStartingPoint("/homepage.rl");
 var userName = "itodortest" + Math.random() + "@gmail.com";
 var password = userName;
 
