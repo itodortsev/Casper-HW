@@ -23,6 +23,9 @@ var password = userName;
     "form#registerForm #email"  : userName,
     "form#registerForm #pass"   : userName
   }, true);
+  
+    this.echo("User is:  " + userName + "\n");
+});
 
 
 
